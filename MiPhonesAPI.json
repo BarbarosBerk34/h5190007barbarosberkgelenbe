@@ -1,0 +1,99 @@
+[
+
+	{
+		"Adi": "Xiaomi Mi Note 10 Lite",
+		"Fiyati": "3.865,00 TL",
+		"EkranBoyutu": "6.47 İnç",
+		"EkranTeknolojisi": "AMOLED",
+		"Batarya": "5260 mAh",
+		"Islemci": "Qualcomm Snapdragon 730G",
+		"Bellek": "6 GB",
+		"Depolama": "128 GB",
+		"AKameralar": "64 MP + 8 MP + 2 MP + 5 MP",
+		"OKamera": "16 MP",
+		"DuyurulmaTarihi": "Nisan 2020",
+		"BuyukResimURL": "https://raw.githubusercontent.com/BarbarosBerk34/h5190007barbarosberkgelenbe/main/mi-note10-lite-detay.png",
+		"KucukResimURL": "https://raw.githubusercontent.com/BarbarosBerk34/h5190007barbarosberkgelenbe/main/mi-note10-lite-kapak.png"
+	},
+
+	{
+		"Adi": "Xiaomi Poco X3 NFC",
+		"Fiyati": "3.180,10 TL",
+		"EkranBoyutu": "6.67 İnç",
+		"EkranTeknolojisi": "IPS LCD",
+		"Batarya": "5160 mAh",
+		"Islemci": "Qualcomm Snapdragon 732G",
+		"Bellek": "6 GB",
+		"Depolama": "128 GB",
+		"AKameralar": "64 MP + 13 MP + 2 MP + 2 MP",
+		"OKamera": "20 MP",
+		"DuyurulmaTarihi": "Ekim 2020",
+		"BuyukResimURL": "https://raw.githubusercontent.com/BarbarosBerk34/h5190007barbarosberkgelenbe/main/poco-x3-nfc-detay.png",
+		"KucukResimURL": "https://raw.githubusercontent.com/BarbarosBerk34/h5190007barbarosberkgelenbe/main/mi-note10-lite-kapak.png"
+	},
+
+	{
+		"Adi": "Xiaomi Redmi Note 9 Pro",
+		"Fiyati": "3.299,00 TL",
+		"EkranBoyutu": "6.67 İnç",
+		"EkranTeknolojisi": "IPS LCD",
+		"Batarya": "5020 mAh",
+		"Islemci": "Qualcomm Snapdragon 720G",
+		"Bellek": "6 GB",
+		"Depolama": "128 GB",
+		"AKameralar": "64 MP + 8 MP + 5 MP + 2 MP",
+		"OKamera": "16 MP",
+		"DuyurulmaTarihi": "Mart 2020",
+		"BuyukResimURL": "https://raw.githubusercontent.com/BarbarosBerk34/h5190007barbarosberkgelenbe/main/redmi-note9-pro-detay.png",
+		"KucukResimURL": "https://raw.githubusercontent.com/BarbarosBerk34/h5190007barbarosberkgelenbe/main/redmi-note9-pro-kapak.png"
+	},
+
+	{
+		"Adi": "Xiaomi Mi 11",
+		"Fiyati": "9.599,00 TL",
+		"EkranBoyutu": "6.81 İnç",
+		"EkranTeknolojisi": "AMOLED",
+		"Batarya": "4600 mAh",
+		"Islemci": "Qualcomm Snapdragon 888",
+		"Bellek": "8 GB",
+		"Depolama": "128 GB",
+		"AKameralar": "108 MP + 13 MP + 5 MP",
+		"OKamera": "13 MP",
+		"DuyurulmaTarihi": "Aralık 2020",
+		"BuyukResimURL": "https://raw.githubusercontent.com/BarbarosBerk34/h5190007barbarosberkgelenbe/main/mi-11-detay.png",
+		"KucukResimURL": "https://raw.githubusercontent.com/BarbarosBerk34/h5190007barbarosberkgelenbe/main/mi-11-kapak.png"
+	},
+	
+	{
+		"Adi": "Xiaomi Poco M3",
+		"Fiyati": "2.459,00 TL",
+		"EkranBoyutu": "6.53 İnç",
+		"EkranTeknolojisi": "IPS LCD",
+		"Batarya": "6000 mAh",
+		"Islemci": "Qualcomm Snapdragon 662",
+		"Bellek": "4 GB",
+		"Depolama": "64 GB",
+		"AKameralar": "48 MP + 2 MP + 2 MP",
+		"OKamera": "8 MP",
+		"DuyurulmaTarihi": "Kasım 2020",
+		"BuyukResimURL": "https://raw.githubusercontent.com/BarbarosBerk34/h5190007barbarosberkgelenbe/main/poco-m3-detay.png",
+		"KucukResimURL": "https://raw.githubusercontent.com/BarbarosBerk34/h5190007barbarosberkgelenbe/main/poco-m3-kapak.png"
+	},
+	
+	{
+		"Adi": "Xiaomi Redmi 9",
+		"Fiyati": "2.400,02 TL",
+		"EkranBoyutu": "6.53 İnç",
+		"EkranTeknolojisi": "IPS LCD",
+		"Batarya": "5020 mAh",
+		"Islemci": "MediaTek Helio G80",
+		"Bellek": "4 GB",
+		"Depolama": "64 GB",
+		"AKameralar": "13 MP + 8 MP + 5 MP + 2 MP",
+		"OKamera": "8 MP",
+		"DuyurulmaTarihi": "Haziran 2020",
+		"BuyukResimURL": "https://raw.githubusercontent.com/BarbarosBerk34/h5190007barbarosberkgelenbe/main/redmi-9-detay.png",
+		"KucukResimURL": "https://raw.githubusercontent.com/BarbarosBerk34/h5190007barbarosberkgelenbe/main/redmi-9-kapak.png"
+	}
+
+]
